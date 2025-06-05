@@ -1,0 +1,9 @@
+Renting of Land
+Kitta Number: 104
+City:  Itahari
+Direction:  North
+Area: 2 anna
+Customer: aj
+Date and Time of Rent: 2024-04-28 23:21:13.704007
+Aggreed duration for rent: 5
+Total Amount: 1000000 NPR

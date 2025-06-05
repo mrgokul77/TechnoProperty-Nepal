@@ -1,0 +1,10 @@
+Returning of Land
+Customer: gokul
+Kitta Number: 104
+City:  Itahari
+Direction:  North
+Date and Time of Return: 2024-04-29 08:00:45.406449
+Duration of Rent: 9 months
+Area: 2 anna
+Fine:20000
+Total Amount: 1820000 NPR (including fine of 20000 NPR)
